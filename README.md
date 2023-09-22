@@ -29,6 +29,6 @@ will benefit from the need to save precious human lives.
 8) Now, Run the code.
 
 ## Poject Team Members:
-1) Srinivas K.M
-2) Lavanya B
-3) Akshitha N
+1) K.M.Srinivas 
+2) B.Lavanya
+3) N.Akshitha
